@@ -15,9 +15,9 @@
 		}
 	},
 	"part1": {
-		"title":"Part 1: Core Probability",
+		"title":"Parte 1: Probabilità",
 		"sections": {
-			"counting":"Counting",
+			"counting":"Conteggio",
 			"combinatorics":"Combinatorics",
 			"probability":"Definition of Probability",
 			"equally_likely":"Equally Likely Outcomes",
